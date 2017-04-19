@@ -1,0 +1,11 @@
+.logo{
+  width: 40%;
+}
+.galeria{
+  padding: 2%;
+}
+.fondo{
+  background: url(../../img/fondo.jpg);
+  background-position: center center;
+  background-size: cover;
+}
